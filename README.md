@@ -225,8 +225,8 @@ If you use this code in your research, please cite:
 @article{ibcapsnet2024,
   title={IBCapsNet: Information Bottleneck Capsule Network for Noise-Robust Representation Learning},
   author={Canqun Xiang, Chen Yang, Jiaoyan Zhao},
-  journal={Journal/Conference Name},
-  year={2024}
+  journal={IEEE Signal Processing Letters},
+  year={2026}
 }
 ```
 
